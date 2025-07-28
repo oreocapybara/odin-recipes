@@ -1,4 +1,4 @@
-# git-recipes
+# odin-recipes
 
 In this lesson I learned all about using links and images in creating a web app for recipes
 
